@@ -6,24 +6,25 @@
 }
 body{
 	background: #efefef;
+	background-size: 100%;
 }
 .logo{
-	background-size: 2px;
+	background-size: 10px;
 	max-width: 20%;
 }
 .not{
-	background-size: 1px;
+	background-size: 2px;
 	max-width: 100%;
 
 	
 }
-.inbo{
+.inbox{
 	background-size: 1px;
 	max-width: 100%;
 	
 	
 }
-.vid{
+.video{
 	background-size: 1px;
 	max-width: 100%;
 
@@ -34,10 +35,10 @@ nav{
 	align-items: center;
 	justify-content: space-between;
 	background: #1876f2 ;
-	padding: 10px ;
+	padding: -2px ;
 	position: sticky;
 	top: 0;
-	z-index: 100;
+	z-index: 50;
 	margin:-10px -10px;
 
 }
@@ -53,17 +54,22 @@ nav{
 	width: 28px ;
 	margin: 0 15px;
 }
+.nav-left logo{
+	margin:10px 20px;
+	padding: 10px 10px;
+}
 .nav-user-icon img{
 	width: 40px;
 	border-radius: 50%;
 	cursor:pointer ;
 }
-.nav-user-icon{
-	margin-left: 30px;
+.nav-user-icon online{
+	margin-left: 20px;
 }
 .search-box{
 	background: #efefef;
 	width: 350px;
+	display: flex;
 	border-radius: 20px;
 	align-items: center;
 	padding: 0 15px;
@@ -267,7 +273,7 @@ nav{
 	font-size: 14px;
 }
 .story0{
-	background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url("member2.png");
+	background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url("member2.jpg");
 
 }
 .story1{
@@ -275,11 +281,11 @@ nav{
 
 }
 .story6{
-	background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url("frriendsforever.png");
+	background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url("images/status-4.png");
 
 }
 .story2{
-	background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url("Advertisement.jpg");
+	background-image: linear-gradient(transparent,rgba(0,0,0,0.5)), url("images/status-1.png");
 
 }
 .story3{
