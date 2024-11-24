@@ -3,7 +3,8 @@
         DO VISIT :-https://20481a04k2.github.io/20481A04K2/
         
 2.THIS PROJECT BASED ON MERN FULL STACK-- CREATED PERSONAL MANAGER NOTES
-        DO VISIT :-https://20481a04k2.github.io/20481A04K2/](https://personal-manager-task.vercel.app/
+       
+        DO VISIT :-   https://personal-manager-task.vercel.app/
         
 <!--
 **20481A04K2/20481A04K2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
